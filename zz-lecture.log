@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2019.3.12)  11 JUN 2019 14:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2019.3.12)  13 JUN 2019 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3686,23 +3686,10 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 19.
 (c:/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\openout2 = `chapter/momentum.aux'.
+\openout2 = `chapter/newton.aux'.
 
- (./chapter/momentum.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9.03374> on input line 4.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
-
-[22
-
-
-
-
-
-
-]
-Chapter 4.
+ (./chapter/newton.tex
+Chapter 2.
 \g__fontspec_family_MicrosoftYaHei_int=\count324
 .................................................
 . fontspec info: "no-font-shape"
@@ -3770,129 +3757,78 @@ LaTeX Font Warning: Font shape `U/wasy/m/n' in size <16.06> not available
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 8.
+(hyperref)                than one, level fixed on input line 10.
 
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXindent is deprecated.
-* \parindent is set to 2\ccwd .
-*************************************************
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXindent is deprecated.
-* \parindent is set to 2\ccwd .
-*************************************************
-[23]
-File: image/NIR-17.png Graphic file (type QTm)
- <use  "image/NIR-17.png" >
-File: image/momentum-1.png Graphic file (type QTm)
- <use  "image/momentum-1.png" >
-File: image/momentum-2.png Graphic file (type QTm)
-
-<use  "image/momentum-2.png" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-File: image/momentum-3.png Graphic file (type QTm)
-
-<use  "image/momentum-3.png" >
-File: image/momentum-4.png Graphic file (type QTm)
- <use  "image/momentum-4.png" > [25]
-File: image/momentum-5.png Graphic file (type QTm)
-
-<use  "image/momentum-5.png" >
-File: image/momentum-6.png Graphic file (type QTm)
- <use  "image/momentum-6.png" >
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-File: image/momentum-7.png Graphic file (type QTm)
-<use  "image/momentum-7.png" >
-File: image/momentum-8.png Graphic file (type QTm)
- <use  "image/momentum-8.png" >
-
-LaTeX Warning: Marginpar on page 26 moved.
-
-File: image/momentum-9.png Graphic file (type QTm)
-<use  "image/momentum-9.png" >
-Underfull \vbox (badness 1810) has occurred while \output is active []
-
- [26]
-File: image/momentum-10.png Graphic file (type QTm)
-
-<use  "image/momentum-10.png" >
-File: image/momentum-11.png Graphic file (type QTm)
- <use  "image/momentum-11.png" >
-File: image/momentum-12.png Graphic file (type QTm)
-
-<use  "image/momentum-12.png" > [27]
-Missing character: There is no ν in font lmmi10!
-File: image/momentum-13.png Graphic file (type QTm)
- <use  "image/momentum-13.png" > [28]
-File: image/momentum-14.png Graphic file (type QTm)
-
-<use  "image/momentum-14.png" >
-
-LaTeX Warning: Marginpar on page 29 moved.
-
-File: image/momentum-15.png Graphic file (type QTm)
-<use  "image/momentum-15.png" >
-File: image/momentum-16.png Graphic file (type QTm)
- <use  "image/momentum-16.png" >
-File: image/momentum-17.png Graphic file (type QTm)
-
-<use  "image/momentum-17.png" > [29]
-File: image/momentum-18.png Graphic file (type QTm)
- <use  "image/momentum-18.png" >
-File: image/momentum-19.png Graphic file (type QTm)
-
-<use  "image/momentum-19.png" > [30]
-
-LaTeX Font Warning: Font shape `U/wasy/b/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 567.
+File: image/newton-1.png Graphic file (type QTm)
+<use  "image/newton-1.png" >
+File: image/newton-2.png Graphic file (type QTm)
+ <use  "image/newton-2.png" > [13
 
 
-LaTeX Font Warning: Font shape `U/wasy/b/n' in size <7> not available
-(Font)              Font shape `U/wasy/m/n' tried instead on input line 567.
 
 
-LaTeX Font Warning: Font shape `U/wasy/b/n' in size <5> not available
-(Font)              Font shape `U/wasy/m/n' tried instead on input line 567.
+]
+File: image/newton-3.png Graphic file (type QTm)
 
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXindent is deprecated.
-* \parindent is set to 2\ccwd .
-*************************************************
-File: image/momentum-20.png Graphic file (type QTm)
-<use  "image/momentum-20.png" >
-*************************************************
-* ctex warning: "deprecated-command"
-* 
-* Command \CTEXindent is deprecated.
-* \parindent is set to 2\ccwd .
-*************************************************
-[31]
-File: image/momentum-20.png Graphic file (type QTm)
- <use  "image/momentum-20.png" >
-File: image/momentum-21.png Graphic file (type QTm)
- <use  "image/momentum-21.png" >
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use  "image/newton-3.png" >
+File: image/newton-4.png Graphic file (type QTm)
+ <use  "image/newton-4.png" >
+File: image/newton-5.png Graphic file (type QTm)
 
- [32]
-File: image/momentum-22.png Graphic file (type QTm)
+<use  "image/newton-5.png" >
+File: image/newton-6.png Graphic file (type QTm)
+ <use  "image/newton-6.png" >
+File: image/newton-7.png Graphic file (type QTm)
 
-<use  "image/momentum-22.png" >
-File: image/momentum-23.png Graphic file (type QTm)
- <use  "image/momentum-23.png" >
-File: image/momentum-24.png Graphic file (type QTm)
+<use  "image/newton-7.png" >
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.03374> on input line 161.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 161.
+ [14]
+File: image/newton-8.png Graphic file (type QTm)
+ <use  "image/newton-8.png" >
+File: image/newton-9.png Graphic file (type QTm)
 
-<use  "image/momentum-24.png" > [33]
-File: image/momentum-25.png Graphic file (type QTm)
- <use  "image/momentum-25.png" >) [34]
+<use  "image/newton-9.png" >
+File: image/newton-10.png Graphic file (type QTm)
+ <use  "image/newton-10.png" >
+File: image/newton-11.png Graphic file (type QTm)
+
+<use  "image/newton-11.png" >
+Underfull \vbox (badness 1142) has occurred while \output is active []
+
+ [15]
+File: image/newton-12.png Graphic file (type QTm)
+
+<use  "image/newton-12.png" >
+File: image/newton-13.png Graphic file (type QTm)
+ <use  "image/newton-13.png" >
+File: image/newton-14.png Graphic file (type QTm)
+
+<use  "image/newton-14.png" >
+File: image/newton-15.png Graphic file (type QTm)
+ <use  "image/newton-15.png" >
+File: image/newton-16.png Graphic file (type QTm)
+
+<use  "image/newton-16.png" > [16]
+File: image/newton-17.png Graphic file (type QTm)
+ <use  "image/newton-17.png" >
+File: image/newton-18.png Graphic file (type QTm)
+
+<use  "image/newton-18.png" >
+File: image/newton-19.png Graphic file (type QTm)
+ <use  "image/newton-19.png" >
+File: image/newton-21.png Graphic file (type QTm)
+
+<use  "image/newton-21.png" > [17]
+File: image/newton-22.png Graphic file (type QTm)
+ <use  "image/newton-22.png" >
+File: image/newton-23.png Graphic file (type QTm)
+
+<use  "image/newton-23.png" >
+File: image/newton-24.png Graphic file (type QTm)
+ <use  "image/newton-24.png" >) [18]
 \tf@thm=\write7
 \openout7 = `zz-lecture.thm'.
 
@@ -3924,12 +3860,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 55176 strings out of 493706
- 1180970 string characters out of 6148913
- 1317775 words of memory out of 5000000
- 57355 multiletter control sequences out of 15000+600000
- 75713 words of font info for 129 fonts, out of 8000000 for 9000
+ 54992 strings out of 493706
+ 1172640 string characters out of 6148913
+ 1309722 words of memory out of 5000000
+ 57185 multiletter control sequences out of 15000+600000
+ 64702 words of font info for 118 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 71i,15n,104p,10436b,1015s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,104p,10436b,1000s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on zz-lecture.pdf (13 pages).
+Output written on zz-lecture.pdf (6 pages).
